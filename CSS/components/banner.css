@@ -1,0 +1,17 @@
+.banner {
+    background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.1) 50%), url(../../images/plane.jpg);
+    color: rgb(60, 60, 60);
+    padding: 200px 0px;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner h1 {
+    font-size: 50px;
+}
+
+.banner p {
+    font-size: 25px;
+    margin-bottom: 45px;
+    color: black;
+}
